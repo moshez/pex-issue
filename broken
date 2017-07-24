@@ -1,0 +1,1 @@
+pip wheel . && pex --disable-cache --no-index --repo `pwd` pexgamer
